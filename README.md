@@ -1,6 +1,8 @@
+# Motor de Evaluación
+
 Este proyecto es un motor de evaluación construido en Java con una arquitectura multimodular usando Maven. Implementa un diseño basado en plugins que permite evaluar envíos de código aplicando diferentes criterios (como evaluación de sintaxis y estilo) en tiempo de ejecución, utilizando polimorfismo y sin modificar el núcleo de la API principal.
 
-
+## Arquitectura del Sistema
 
 ```mermaid
 classDiagram
